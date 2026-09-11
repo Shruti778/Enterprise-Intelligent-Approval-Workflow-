@@ -1,0 +1,6 @@
+dist
+coverage
+tests
+scripts
+migrations
+seeders
